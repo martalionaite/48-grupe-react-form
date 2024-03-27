@@ -67,6 +67,11 @@ aside {
 .page-title {
     font-size: 3rem;
 }
+
+.name-title button {
+    font-size: 0.7em;
+    padding: 0.1em 0.3em;
+}
 .page-description {
     font-size: 1.4rem;
 }
